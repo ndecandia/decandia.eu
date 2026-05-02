@@ -1,3 +1,8 @@
 .DS_Store
 Thumbs.db
 *.log
+
+# Hugo build output
+/public/
+/resources/
+.hugo_build.lock

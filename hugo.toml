@@ -1,0 +1,66 @@
+baseURL = "https://decandia.eu/"
+title = "Decandia"
+languageCode = "en-us"
+theme = "hugo-travelify-theme"
+canonifyURLs = true
+ignoreLogs = ['warning-goldmark-raw-html', 'deprecated']
+
+[author]
+    name = "Nicola Decandia"
+    email = "n.decandia@desotech.it"
+
+[markup.goldmark.renderer]
+    unsafe = true
+
+[params]
+    author = "Nicola Decandia"
+    site_description = "A personal travel journal — stories, places and routes from years on the road."
+    copyright = "decandia.eu"
+    title_in_logo = true
+    disable_mathjax = true
+    date_format = ""
+
+    custom_css = ["css/site.css"]
+    custom_js  = []
+
+[[menu.main]]
+    name  = "About"
+    url   = "/about/"
+    weight = 90
+
+[params.share]
+    enable = false
+
+[params.privacy]
+    enable = true
+
+[social]
+    rss             = "Needed"
+    email           = "n.decandia@desotech.it"
+
+[params.widgets]
+    recent_articles = true
+    categories = true
+    tags = true
+    tag_cloud = true
+    archives = false
+    search = true
+    mailchimp = false
+    author = false
+
+[params.slider]
+    enable = true
+    manual = false
+    num_features = 5
+
+[permalinks]
+    categories = "/areas/:slug/"
+    tags = "/places/:slug/"
+    post = "/trips/:slug/"
+
+[taxonomies]
+    category = "categories"
+    tag = "tags"
+
+[params.views]
+    enable = false
