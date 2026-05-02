@@ -1,16 +1,25 @@
 ---
 title: "Untamed Zimbabwe"
-date: 2026-05-02T12:00:00+02:00
-banner: "banners/zimbabwe.jpg"
-categories: ["Southern Africa"]
-tags: ["Zimbabwe", "safari", "4x4", "wild camping", "Hwange", "Matobo", "Great Zimbabwe", "Gonarezhou", "Victoria Falls", "Matusadona", "Kubu Island"]
-slider: true
-nodateline: true
+description: "A 4x4 journey through a country that turns its back on tourism — and rewards the few who arrive anyway."
+date: 2026-05-02
+slug: "untamed-zimbabwe"
+image: cover.jpg
+categories:
+    - Southern Africa
+tags:
+    - Zimbabwe
+    - Safari
+    - 4x4
+    - Wild camping
+    - Hwange
+    - Matobo
+    - Great Zimbabwe
+    - Gonarezhou
+    - Victoria Falls
+    - Matusadona
+    - Kubu Island
+toc: true
 ---
-
-A 4x4 journey through a country that turns its back on tourism — and rewards the few who arrive anyway.
-
-<!--more-->
 
 ## A place that hides on purpose
 

@@ -1,0 +1,38 @@
+[[main]]
+    identifier = "trips"
+    name       = "All trips"
+    url        = "/"
+    weight     = -100
+    [main.params]
+        icon = "home"
+
+[[main]]
+    identifier = "areas"
+    name       = "Areas"
+    url        = "/categories/"
+    weight     = -90
+    [main.params]
+        icon = "categories"
+
+[[main]]
+    identifier = "search"
+    name       = "Search"
+    url        = "/search/"
+    weight     = -80
+    [main.params]
+        icon = "search"
+
+[[main]]
+    identifier = "archives"
+    name       = "Archives"
+    url        = "/archives/"
+    weight     = -70
+    [main.params]
+        icon = "archives"
+
+[[social]]
+    identifier = "github"
+    name       = "GitHub"
+    url        = "https://github.com/ndecandia"
+    [social.params]
+        icon = "brand-github"

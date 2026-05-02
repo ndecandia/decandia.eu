@@ -1,8 +1,12 @@
 ---
 title: "About"
-nodateline: true
-noprevnext: true
-disable_comments: true
+description: "Why this site exists."
+date: 2026-05-02
+menu:
+    main:
+        weight: -50
+        params:
+            icon: user
 ---
 
 I travel because I cannot help it. I write because memory fades, and a place visited but not told is a place half-lost.

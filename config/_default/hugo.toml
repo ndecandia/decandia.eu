@@ -1,0 +1,13 @@
+baseURL                = "https://decandia.eu/"
+languageCode           = "en-us"
+title                  = "Decandia"
+defaultContentLanguage = "en"
+hasCJKLanguage         = false
+theme                  = "hugo-theme-stack"
+
+[pagination]
+    pagerSize = 6
+
+[permalinks]
+    post = "/trips/:slug/"
+    page = "/:slug/"
