@@ -1,6 +1,6 @@
 ---
 title: "Untamed Zimbabwe"
-description: "A 4x4 journey through a country that turns its back on tourism — and rewards the few who arrive anyway."
+description: "A practical 4x4 self-drive guide across Zimbabwe — borders, routes, costs, fuel, camps, packing list. Everything you need to plan it."
 date: 2026-05-02
 slug: "untamed-zimbabwe"
 image: cover.jpg
@@ -11,6 +11,7 @@ tags:
     - Botswana
     - Safari
     - 4x4
+    - Self-drive
     - Wild camping
     - Hwange
     - Matobo
@@ -19,152 +20,461 @@ tags:
     - Victoria Falls
     - Matusadona
     - Kubu Island
-    - Hunter's Road
 toc: true
 ---
 
-## A place that hides on purpose
-
-Zimbabwe is one of those countries the maps know but the world has forgotten. The roads are few and the lodges fewer; what passes for a national park is sometimes a faded sign at the edge of a track, a wooden boom that hasn't been lowered in years, a ranger station with no electricity and a logbook held together with tape. And yet, perhaps for that reason, it stays with you.
-
-You will rarely see another western traveller. The villages are small, dignified, ferociously hospitable. The wildlife — especially the elephants — appears in numbers that feel almost prehistoric. The wide spaces are silent in a way that European silence never is: not the absence of sound, but the presence of distance.
-
-This is not a country to consume. It is a country to enter slowly, in a vehicle you trust, with enough water, enough fuel, and a tolerance for dust that becomes part of your skin by day three. The people who come here come because someone told them. They go home and they tell someone else. That is how this place still exists.
+A complete planning manual for a self-drive 4x4 crossing of Zimbabwe via Botswana and back through South Africa. Built from the field notes of multiple recent expeditions, distilled into what you actually need to know to plan, pack, and pull it off.
 
 ![Acacia at sunset over the savannah](savannah.jpg) ![A baobab the size of a house](baobab.jpg)
 
-## What I came for
+## At a glance
 
-Eight places, threaded together by long red tracks and the kind of horizons that bend the day. None of them are easy to reach. None of them are wasted.
+| | |
+|---|---|
+| **Total days** | 17–18 |
+| **Total distance** | ~4,000 km |
+| **Style** | Self-drive 4x4, mostly camping |
+| **Vehicle** | Toyota Hilux 4x4 or equivalent, with high clearance |
+| **Group size** | 6–15 (3 vehicles is the sweet spot) |
+| **Best season** | May to October (dry, cool nights) |
+| **Avoid** | November onward — Gonarezhou floods, tracks become impassable |
+| **Budget** | ~€650–900 per person common kitty + flights + visas |
+| **Difficulty** | Demanding: long driving days, dust, off-road sections, basic facilities |
 
-### Hwange
+This is not a soft safari. Plan for dust on every surface, washing in tepid water, and three to four hours of driving every day on rough roads. In return: animals in numbers you will not see in better-trodden countries, and a pace of contact with the land that has all but disappeared elsewhere.
 
-An immense, sun-cracked park where the elephants seem to outnumber the trees. The northern half — Sinamatella, Robins Camp, the Mandavu and Masuma dams — is the soul of it. Sleep at a quiet bush camp by a waterhole and let the night come to you: a family of ten elephants leaves and another arrives, and another after that, and you stop counting.
+## Before you go
 
-If you can get a permit for **Masuma Dam** at almost any cost, take it. It's a small fenced bushcamp on a rise above the pan, with a covered viewing platform ten metres from the water. The morning we arrived, the lions had just left — the ranger said they had spent the night drinking. We sat on that platform for two hours doing nothing but watching: kudu, impala, giraffe, and elephants, always elephants.
+### Best season
 
-The southern half of the park is rougher, lonelier, and worth the discomfort. There are no camps to speak of, no fences, no other vehicles. The track simply ends at a collapsed gate and you are out, somewhere very few people ever go.
+The dry months — **May through October** — are when this trip works. Cool nights (down to 0 °C in higher places like Matobo), dry days (25–30 °C), no rain, dust everywhere, and animals concentrated around the few remaining waterholes. **August and September** are prime: maximum animal density, comfortable temperatures.
 
-![Elephants at dawn in the Hwange park](elephants.jpg)
+Avoid November to March: tracks in Gonarezhou and the southern half of Hwange flood and become unsafe; hours of daylight shrink driving windows; and humidity makes the camping miserable.
 
-### Matobo
+### How long
 
-No big game here, and that is exactly the point. Granite domes piled like sleeping animals, balancing rocks, and a horizon broken by stone instead of bush. It's small enough that you can drive it in a morning, but you shouldn't. The interest is older than the rocks.
+Seventeen days is the minimum for a meaningful loop. Eighteen if you include Victoria Falls and Matusadona. Don't try to compress it: the distances are real and the borders eat hours.
 
-In the caves — **Silozwane**, **Nswatugi**, **Bambata** — there are paintings left by the San people, who lived here long before anyone wrote this country's name down. Animals, hunters, dancing figures in red ochre. They are not behind glass; you walk to them, and once there the ranger leaves you alone with them. Above one of the hills, the colonial conqueror **Cecil Rhodes** had himself buried — a single granite slab on top of a granite world. The view from his grave is one of the great views of southern Africa, and the irony of who claimed it is not lost on anyone.
+### Passports & visas
 
-![Granite domes and balanced rocks](granite.jpg)
+| Country | Visa | Cost | Notes |
+|---|---|---|---|
+| South Africa | None for EU/UK/US passports | Free | 90-day stamp on arrival |
+| Botswana | None | Free | 30-day stamp at land borders |
+| Zimbabwe | Required | $30 single, $35 multiple-entry | Buy at the border, cash USD only |
 
-### Great Zimbabwe
+Passport must be **valid for 6 months** beyond entry, with at least 4 blank pages. Children require additional documents in South Africa — check separately.
 
-The dry-stone capital that gave the country its name. Walk the walls slowly: there is more here than the guidebooks tell. Most travellers don't come — we were the only foreigners on the site for two hours, and we walked it with a local guide who knew which stones to point at and which to be silent about. There is a museum at the end, small and worth thirty minutes.
+### Health & vaccines
 
-A few kilometres west, the **Khami ruins** outside Bulawayo are a quieter cousin of the same story, and in some ways more affecting. You will likely be alone there.
+Nothing is **mandatory** for travellers arriving from Europe, but:
 
-### Gonarezhou
+- **Yellow fever certificate** is required if you transit via Ethiopia (some Emirates/Ethiopian Airlines routings). Carry it if in doubt.
+- **Malaria prophylaxis** recommended. Risk is low in dry season but the disease is endemic. Speak to a travel clinic 4–6 weeks before departure.
+- Bring a personal medical kit: broad-spectrum antibiotic, antihistamine, anti-diarrhoea, antipyretic, throat lozenges, eye drops (for dust), wound dressings, insect repellent (DEET-based), sun cream, lip balm.
 
-The wildest of Zimbabwe's parks. The northern half, around the **Chipinda Pools**, is river country: hippos in the water, kudu and elephants on the bank, and the **Chilojo cliffs** burning red in late light. The cliffs are the kind of view that makes you stop talking. You can see them from below, from across the Runde river, but if you have time, you can also climb them with the vehicle from the south side and look back the other way. Two river fords on the way; check with the rangers before attempting them.
+### Travel insurance
 
-The elephants here behave differently. They charge. The rangers told us why: poachers travel in vehicles like ours, and the herds have learned. A bull turned on us three times in one day, ears wide, trumpeting. We backed off, every time. You do what the elephant tells you to do.
+Take comprehensive medical evacuation cover. The nearest Western-grade hospital from many points on this route is in Johannesburg or Bulawayo. **Verify your policy covers self-driving in remote areas** — many standard policies don't.
 
-The southern half of the park is dry and almost without animals — but if you make it down to the Malipati gate, you cross into a buffer between Gonarezhou and Kruger that no-one travels. Tracks like cobwebs, baobabs the size of houses, and villages that haven't seen a foreigner since the last group came through.
+## Money
 
-![River country in the Gonarezhou](river.jpg)
+### What currency, where
 
-### Victoria Falls
+| Country | Currency | Notes |
+|---|---|---|
+| South Africa | Rand (ZAR) | Cards widely accepted |
+| Botswana | Pula (BWP) | Cards in cities; cash on remote roads |
+| Zimbabwe | **US Dollars** | The official currency in practice; carry cash |
 
-Loud, wet, undeniable. Yes, it is touristy — the only truly touristy place in this country — but the noise of a million litres falling at once does not negotiate. The path along the gorge is paved and easy; an hour and a half is enough.
+The Zimbabwean dollar exists on paper but is almost never used. Plan to do the entire Zimbabwe leg with **US dollars in cash**.
 
-If you are brave, go in the dry season and find your way to the **Devil's Pool** on the very edge of the falls. A guide takes you across the slack water at the lip and you sit, calmly, in a stone basin while the world ends a metre from your foot. Most of the people who do it never do anything braver in their lives. Bookings sell out — ask at any lodge in town.
+### USD bills for Zimbabwe — a critical detail
 
-You can also walk to the bridge at the border without entering Zambia: just tell the guard you only want to see the gorge. They will hand you a slip and let you across.
+Zimbabwean traders and officials reject USD notes that are:
 
-![Victoria Falls](falls.jpg)
+- Issued **before 2009**
+- **Marked, torn, folded, stapled, or written on**
 
-### Matusadona & Lake Kariba
+Ask your bank for a clean stack of **post-2009 bills in small denominations**: 1, 5, 10, and 20. You will need exact change repeatedly (parks, fuel, supermarkets). Carry a flat envelope in a money belt; do not crumple them in a wallet.
 
-A drowned forest at the western edge of the lake. When the dam was built in the late fifties, the rising water swallowed the trees standing — and there they still are, half-skeletal, silver, sticking out of the water like the bones of something enormous. Few animals these days, fewer people, but the sunset over the lake from **Tashinga Camp** is one of those quiet long sunsets that reset something inside you.
+### Where to change
 
-A boat trip on the lake is worth the asking price. Hippos, fish eagles, and elephants on the shore, especially toward dusk.
+- **Johannesburg airport**: convenient but expensive (5% commission). Change only what you need for the first 2–3 days.
+- **Martin's Drift border (Botswana side)**: only do the minimum — exchange rates are predatory.
+- **Botswana petrol stations and supermarkets**: better rates.
+- **Zimbabwe**: do not bring Pula in. They are not accepted and cannot be changed.
 
-### Kubu Island
+Bring **cash in Euros or USD** as your main reserve, and use cards for big-ticket items in South Africa (lodges, fuel, supermarket spend).
 
-Just over the border in Botswana, but you will pass through it on the way: a small granite island marooned in the white salt of the **Makgadikgadi pan**, studded with baobabs centuries old. You camp at the foot of the rocks. Climb to the top before sunrise and sit in silence; bring a beer for sundown. The track in from Rakops to the west is hard and nearly invisible; the track in from Letlhakane to the south is easier. The first option is the better story.
+### Estimated costs
 
-If you have an extra half day and a confident driver, you can cross the **Nwetwe Pan** all the way to **Chapman's Baobab** — a thousand-year-old tree that stood as a meeting point for centuries of travellers and explorers. It collapsed a few years ago, but the trunks still mark the spot.
+For a group of 12–14 sharing a common kitty (`cassa comune`):
 
-![Salt pan stretching to the horizon](saltpan.jpg)
+| Item | Per person |
+|---|---|
+| Park entries | ~$150 |
+| Fuel | ~$200 |
+| Camping fees | ~$200 |
+| Food & drink (groceries) | ~$120 |
+| Visas, vehicle taxes, tolls, tips | ~$150 |
+| **Total common kitty** | **~$820–950** (€780–900) |
 
-### Hunter's Road
+Add: international flight (~€800), vehicle hire share (~€200 per person, paid separately), personal extras, and tips for the local driver/guide.
 
-An old military track running along the Zimbabwe-Botswana border. Used by no-one, watched by no-one, almost certainly not officially open to civilian vehicles. The locals shrug. There is no fence between the two countries here, just a small marker every hundred metres. Pure savannah, pure silence, and the occasional elephant pausing to consider you. GPS only — the road is not on any standard map, and the access point from the asphalt is a hidden gap that you will drive past three times before finding it.
+## The route, day by day
 
-The farther stretches of the road are choked with vegetation; eventually we had to cut west on a smaller track to escape. Don't fight it. The kilometres you do manage are worth more than any park gate.
+The route below is the **classic counter-clockwise loop** from Johannesburg, into Botswana, across into Zimbabwe, and back south through Gonarezhou and Beitbridge. Distances are practical, not aspirational.
 
-## The villages and the people
+| Day | From → To | Km | Drive | Stop |
+|---|---|---|---|---|
+| 1 | Italy → Johannesburg | — | flight | — |
+| 2 | Johannesburg → Modimolle (Vaalwater) | 200 | 3 h | Pick up vehicles, first shop, soft landing |
+| 3 | Modimolle → Martin's Drift → Khama Rhino → Letlhakane | 600 | 9 h | Long transfer; first border |
+| 4 | Letlhakane → Makgadikgadi Pan → Kubu Island | 280 | 6 h | Sleep at the rocks |
+| 5 | Kubu → Nata → Elephant Sands | 170 | 5 h | Waterhole camp |
+| 6 | Elephant Sands → Hunter's Road → Pandamatenga | 215 | 7 h | Cross into Zimbabwe |
+| 7 | Pandamatenga → Hwange (Sinamatella) | 140 | 7 h | First park night |
+| 8 | Hwange game drive → Masuma Dam or Main Camp | 160 | full day | Northern Hwange |
+| 9 | Hwange → Tsholotsho → Lubizi (bushcamp) | 195 | 8 h | Cross south through the park |
+| 10 | Lubizi → Bulawayo → Matobo | 280 | 6 h | Resupply Bulawayo |
+| 11 | Matobo → Mandamambge (bushcamp) | 345 | 8 h | Granite, San caves |
+| 12 | Mandamambge → Great Zimbabwe → Gonarezhou (Chipinda Pools) | 400 | 8 h | Ancient walls, river camp |
+| 13 | Gonarezhou game drive | 140 | full day | Chilojo cliffs |
+| 14 | Gonarezhou → Malipati gate → bushcamp | 240 | 8 h | Buffer zone |
+| 15 | Bushcamp → Beitbridge → Polokwane | 360 | 7 h | Border out, asphalt resumes |
+| 16 | Polokwane → Cullinan Mine → Pretoria | 320 | 4 h | Soft last day |
+| 17 | Pretoria → Soweto → Johannesburg → Italy | 140 + flight | — | Drop vehicles, fly home |
+| 18 | Arrive Italy | — | — | — |
 
-This part is the part you don't expect.
+**Optional add-ons (each adds 1 day):**
 
-A long day south of Hwange, on a small dirt road through the bush, the second car broke down on a sandy stretch and had to be dug out for an hour. A woman came out of a hut with a calabash of water and stood with us, watching, until the wheels turned again. Later that afternoon, near a place called **Lubizi**, we asked a man named **Mosti** if we could pitch our tents inside his thorn-fenced compound. He said yes — but first he had to ask the headman. We followed him to the headman's house, were granted permission with great ceremony, and by sunset half the village had gathered to look at us. Curious children, polite elders, no agenda. They had simply come "to greet the travelling strangers", as one man put it.
+- **Victoria Falls**: detour from Pandamatenga, sleep one night in town, then enter Hwange via the southern Robins Camp gate.
+- **Matusadona / Lake Kariba**: detour west from Hwange via Binga to Tashinga Camp on the lake.
+- **Khami ruins**: half-day from Bulawayo (combine with Matobo).
 
-We had told them earlier that there was a doctor in our group. The next morning we held an impromptu open clinic at the edge of the camp: a queue formed, the doctor spent two hours seeing everyone, and we left late. In the conversations of the night before, the elders had mentioned that the village had no working water pump — they were carrying water on their heads from kilometres away. We are still in touch about that.
+## Borders: what happens, in order
 
-These are the encounters you don't go looking for. They find you, if you give them the chance — which means: take the small road, stop when stopping is awkward, eat your lunch slowly, sleep where the day ends.
+The borders are the most predictable obstacle on the trip. Knowing the choreography saves hours.
 
-In the bigger places — **Bulawayo**, **Masvingo**, **Chiredzi** — the stops are practical: fuel, supermarket, money. The country gets noisier here, more African in the obvious sense, with the colour and the haggle. The **Makokoba** market in Bulawayo, a kilometre from the city centre, is a fifteen-minute walk through stalls selling everything from sinks to handmade musical instruments. Worth the stop.
+### South Africa → Botswana (at Martin's Drift)
 
-## The night in the bush
+1. South Africa exit: passports stamped, vehicle exit form. ~30 minutes.
+2. Botswana entry: passport stamp, no fee.
+3. **Vehicle insurance**: Pula 60 per private vehicle, Pula 180 per rental. Cash only at the kiosk.
+4. Foot-and-mouth check: no fresh fruit, vegetables, or meat allowed. Eat or discard before the gate.
+5. Currency exchange: 100 m past the gate at the petrol station. **Better rate than the border kiosk.**
 
-Sleep in a tent every night, with one or two exceptions. Cook on a fire. Wash in tepid water out of a bucket warmed by the camp attendant on a wood stove. The first night, you'll wonder what you got into. By the fourth, you'll wonder why anyone sleeps any other way.
+Total: 1–2 hours.
 
-The stars are unreasonable. There is no light pollution for hundreds of kilometres in any direction, the air is dry, and at the latitudes you are at, the Magellanic Clouds rise high enough to be seen as clouds, not points. After dinner, drag a chair away from the fire and lie back; you'll see the Milky Way as a structure, not a smudge.
+### Botswana → Zimbabwe (at Pandamatenga)
 
-There are sounds. Hippos at night are louder than you expect — a deep, theatrical groaning that carries kilometres across still water. Hyenas come close to camp in some places; we listened to a clan tear into a sealed bag of rubbish at Chipinda Pools while we lay in our tents and laughed. At Sinamatella, after dark, do not leave shoes outside the tent. The smell attracts hyenas, which mistake them for food and carry them off into the night.
+The smallest, slowest, and quietest border on the route.
 
-In a few places — Hwange, Gonarezhou — you can pay a premium and sleep in a fenced bush camp with a ranger keeping watch. Pay the premium. The waterhole within five metres of your tent is the experience this country was waiting to give you.
+1. Botswana exit: stamps, ~15 minutes.
+2. Zimbabwe entry: visa **$30 cash USD** per person, fill out form. ~30 minutes.
+3. **Vehicle Carbon Tax**: $50 per vehicle.
+4. **Insurance extension**: $70 per rental vehicle, $50 per privately-owned vehicle.
 
-![A campfire at the edge of the bush](campfire.jpg)
+Total: 2–2.5 hours. **No ATM, no money changer, no shop.** Arrive with USD cash for everything.
 
-## How the days fall
+### Zimbabwe → South Africa (at Beitbridge)
 
-A loose backbone. The shape changes with the season, the rain, the borders, and the weight of dust in the carburettor. Roughly:
+The slowest crossing of the trip. Plan a full half-day.
 
-1. **Arrival in Johannesburg.** Pick up the vehicles, an unhurried first lunch, and a long drive north toward the border country. The first night is usually a guesthouse — a soft landing before the camping begins.
-2. **Crossing into Botswana — the salt pans.** Through Martin's Drift or Stockpoort and across the Makgadikgadi to **Kubu Island**, a place that feels like the world's quiet attic.
-3. **Elephant Sands & the Hunter's Road.** A waterhole that the elephants treat as a living room, then a day on the unmarked Hunter's Road along the border. You may see no human all day.
-4. **Into Zimbabwe — Hwange.** Cross at Pandamatenga, register, pay your visas, and drive into the park. The northern camps are the soul of it.
-5. **South through Hwange and into the country.** A long, slow day on small roads through villages that don't see foreign vehicles. Sleep in someone's compound if they offer.
-6. **Bulawayo & Matobo.** A short return to fuel, food and signal in Bulawayo, then south to the granite world of Matobo. Camp inside the park if you can — the night sky here is unfair.
-7. **Great Zimbabwe.** A morning at the ancient walls; if you have the day, the back roads from there to **Lake Mutirikwi** and east toward Zaka are some of the most beautiful in the country, populated by small villages built around a single shop.
-8. **Gonarezhou.** The Chipinda Pools, the Chilojo cliffs, and game drives that fill three days without effort. If you have the experience, go south; if not, base yourself at the river.
-9. **Crossing south — Beitbridge to Pretoria.** The last long drive. The border at Beitbridge is the only true crowd of the trip — count on two hours. After that, asphalt, a final asado, and the slow re-entry into noise.
+1. Toll plaza on Zimbabwe side: ticket dispensed.
+2. **Police Department counter**: vehicle documents inspected.
+3. **Passport Control**: exit stamps.
+4. **Vehicle exit fee**: $27 per vehicle.
+5. **Bridge toll**: $9 per vehicle.
+6. Wait for vehicle plate to display on the screen, swipe ticket, barrier opens.
+7. Drive across the bridge.
+8. South Africa entry: passport stamps, vehicle declaration. **1.5–2 hours of queueing**, sometimes more.
 
-If you have the extra days, two detours are worth it: north to **Lake Kariba** and **Matusadona** for the drowned-forest sunsets, and west via Hwange to **Victoria Falls** for the obvious reason. Both add a meaningful day each.
+Total: 2.5–4 hours. Bring water, snacks, and patience.
 
-## The same country, three ways
+## The vehicle
 
-This route has been walked more than once. The country obliged differently each time, and the variants are worth knowing about.
+### What to hire
 
-**The Botswana approach.** The classic version: enter Zimbabwe from the west through Botswana and the salt pans, and exit south through Gonarezhou. The longest, the wildest, and the one with the strongest sense of crossing into a forgotten place. Best in dry season.
+**Toyota Hilux 4x4 double-cab**, diesel, manual transmission, with a **closed (canopy) cargo bed**. The Hilux is the standard southern African workhorse: parts are everywhere, mechanics know it, and it tolerates abuse. Avoid lower-clearance SUVs.
 
-**The Kruger swap.** If the rains come early, Gonarezhou can become impassable. The fall-back is to skip south into South Africa and finish in **Kruger**. You lose the wildness; you gain the wild dogs (and the lions, in numbers). One group I know swapped on the day and never regretted it.
+For 12–14 people, hire **3 identical vehicles**. The local guide brings their own vehicle as the lead.
 
-**All Zimbabwe, with the falls.** A purely Zimbabwean loop, anti-clockwise from Beitbridge: Matobo, Bulawayo, Hwange, Victoria Falls, **Matusadona**, **Chizarira** if you can manage it, **Great Zimbabwe**, Gonarezhou. Less Botswana, more variety, and an extra day on the road for it. This version puts you in front of the falls and the lake; the trade-off is one more border crossing per side.
+### Cross-border permits
 
-There are also worthier-than-they-look detours that almost no-one does: the **Nyanga** plateau in the eastern highlands (rope bridges, mountain landscapes, no animals); the road through **Gokwe** and **Kwekwe** between Matusadona and Great Zimbabwe (cotton country, an Africa of two speeds where ox-carts share the road with trucks); and the Sudanese-feeling village world east of **Mana Pools** where a little-known tribe — the Vadoma — live with two-toed feet adapted for climbing.
+The rental company **must** provide a "cross-border letter" for both Botswana and Zimbabwe, in the name of each driver who will be at the wheel at a border. This is non-negotiable. Confirm in writing at least two weeks before departure.
 
-## What it costs you, and what it costs
+### GPS and navigation
 
-Money is the small part of it. You'll spend more than you think on visas, on park entries (Zimbabwe is, perversely, expensive), on fuel that is dearer than in Botswana or South Africa. The Victoria Falls entrance alone is fifty dollars. The supermarkets in the touristy towns charge European prices. None of this matters. What it costs you is two weeks of giving up signal — there is essentially no internet outside the cities — and most of your idea of comfort. The road shakes things loose. Things you didn't know were loose.
+A **handheld GPS with pre-loaded tracks** is essential, not optional. Many of the most rewarding sections — Hunter's Road, the southern half of Hwange, the back roads from Matobo to Great Zimbabwe, and the southern Gonarezhou — are not on standard maps and the local driver has likely never been there.
 
-In return, you get a country that is still itself. A country where you can pull off the road and pitch a tent and no-one will mind, where the people you meet are pleased to meet you, where the landscape goes on for hours and isn't trying to sell you anything. It is, increasingly, a rare combination.
+Recommended apps and tools:
 
-## The shape of the days
+- **Maps.me** (offline maps, very good detail in southern Africa)
+- **Tracks4Africa** (paid; the standard offline GPS database for self-drivers in the region)
+- **Garmin GPS** with the relevant T4A maps loaded
+- A **paper map**: *Tracks4Africa Zimbabwe & Botswana* (~€25)
 
-Tents every night with a few exceptions. Cooking on a fire, washing in tepid water, and a long, dusty driving day between camps. Fuel stations are rare in Zimbabwe; jerrycans filled in Botswana save a lot of anxiety later. Carry water — five-litre jugs are easier to find in Bulawayo than in Masvingo. Carry small US dollar notes (post-2009, undamaged); change is sometimes given in old Zimbabwean dollars, kept for posterity, or in sweets.
+### Driving rules and habits
 
-A GPS with pre-loaded tracks is not a luxury. Many of the most beautiful stretches — Hunter's Road, the southern half of Hwange, the Matobo back-country, the south of Gonarezhou, the alternative approach to Kubu Island — are simply not on standard maps. Without tracks you can still see the country; you will just see the easier half of it.
+- **Drive on the left.**
+- **Always wear seatbelts**, including in the back seat. Botswana and Zimbabwe police fine for this.
+- **Stop fully at every stop sign**, including at empty crossings. This is enforced.
+- At unsignalled four-way junctions, **first to arrive is first to leave**, regardless of direction.
+- **Never drive at night.** Pothole-strewn asphalt, no street lighting, unfenced livestock and wildlife on the road. If you have to, convoy with hazards on, max 60 km/h.
+- **Plan no more than 400 km on dirt, 500 km on asphalt** per day. Average dirt-road speed is 30 km/h.
 
-The borders are the most tiring part. Pandamatenga is small and gentle if there's no-one else there. Beitbridge, on the way out, is a slow choreography of seven counters and a bridge toll, and you will not understand the order until you have done it. Take a deep breath. Bring patience for borders, small bills for small bribes, and a willingness to share food at the campfire with whoever wanders over.
+### Police checkpoints
 
-That, in the end, is most of what the trip turns out to be about.
+Frequent on tarred roads, especially in Botswana and Zimbabwe. Most are routine. Keep:
+
+- Driver's licence (international + national)
+- Vehicle registration
+- Cross-border permit
+- A small bill ($5 USD or 100 Rand) ready in the door pocket for occasional "discussion fees"
+
+Be courteous, smile, say where you are going. Do not argue speed-trap fines; they are not worth the hour.
+
+## Fuel and range
+
+### Prices (indicative)
+
+| Country | Diesel | Notes |
+|---|---|---|
+| South Africa | ~$1.30 / litre | Card accepted everywhere |
+| Botswana | ~$1.20 / litre | **Cheapest** — fill up here |
+| Zimbabwe | ~$1.65–1.70 / litre | Cash USD; stations are sparse |
+
+### Range strategy
+
+- Vehicle tank: ~80 litres → ~650–700 km between fill-ups on asphalt, ~500 km on dirt.
+- Carry **4 jerrycans of 20 L each** on the lead vehicle's roof rack. Fill them in **Pandamatenga** on the Botswana side before crossing into Zimbabwe (cheapest, last reliable station before a long stretch).
+- In Zimbabwe, fill the tank at every functioning pump you pass. Some advertised stations are dry.
+
+### Where to fill
+
+- South Africa: anywhere on the N1.
+- Botswana: Martin's Drift (after border), Serowe, Letlhakane, Nata, Pandamatenga.
+- Zimbabwe: Hwange Main Camp area, Bulawayo (multiple), Masvingo, Chiredzi, Beitbridge approach.
+
+## Sleeping
+
+### Park camps (Zimbabwe)
+
+A change as of 2024: **most Zimbabwe park camps now require pre-booking** through Zimparks, via WhatsApp to the central office in Harare. The web is unreliable. Plan to book 2–3 months ahead, especially for high-season (August–September) and around Zimbabwean public holidays.
+
+| Camp | Park | Cost (approx.) | Book ahead? |
+|---|---|---|---|
+| Sinamatella | Hwange | $17 / pax + $10 car | Yes |
+| Robins Camp | Hwange | $20 / pax | Yes |
+| Main Camp | Hwange | $17 / pax + $10 car | Yes |
+| Masuma Dam (bushcamp) | Hwange | $40 / pax | Essential — limited spots |
+| Maleme Dam | Matobo | $17 / pax + $3 car | Yes |
+| Chipinda Pools | Gonarezhou | $20 / pax + $5 car | Yes |
+| Chilojo Camp (no facilities) | Gonarezhou | $20 / pax | Yes |
+| Tashinga | Matusadona | $15 / pax + $10 car | Yes |
+
+Most camps offer a basic ablution block with a wood-fired hot water boiler. Some have nothing but a clearing.
+
+### Wild / bush camping
+
+Permitted across most of rural Zimbabwe (as of 2024) — but always **ask permission** of the nearest village headman before pitching a tent. Offer something in return: a small contribution, supplies, a meal. Avoid camping closer than 1 km to a village — drunk visitors after dark are not what you want.
+
+The **Hunter's Road** is a classic bush-camp option, fully unmonitored.
+
+### Lodges (recommended splurges)
+
+- **First and last night** near Pretoria (Twana Lodge, ~$15–20 / pax) — reliable, friendly, hot showers after the road.
+- **Victoria Falls** if you go: Shoestring Hostel or one of the budget lodges (~$50–70 / pax). Town is touristy; embrace it for one night.
+- **Bulawayo** if you want a city break mid-trip: N.1 Hotel in the centre (~$30 / pax).
+
+### Equipment provided by the operator
+
+The local operator typically supplies:
+
+- Tents (dome, 3-person, one per 2 pax)
+- Self-inflating mattresses (confirm — sometimes you need to ask)
+- Cook box: stove, gas, pots, plates, cutlery, basic utensils
+- Tables and chairs
+- Cooler / fridge (in lead vehicle)
+
+You bring: sleeping bag (comfort 0–5 °C), pillow, towel, headlamp.
+
+## Parks: entry fees and what to expect
+
+| Park | Entry | Vehicle | Camping | Notes |
+|---|---|---|---|---|
+| Hwange | $10 / pax / day | $10 | $17 (basic) – $40 (bushcamp) | Largest park; northern half is the best |
+| Matobo | $8–12 / pax | $3 | $10 | Granite, caves, no big game |
+| Great Zimbabwe | $15 / pax | included | — | Half-day visit |
+| Gonarezhou | $20 / pax / day | $5 | $20 | River country, Chilojo cliffs |
+| Matusadona | $25 / pax | $10 | $15 | Lake camps, drowned forest |
+| Victoria Falls | $50 / pax | parking $5 | — | Single entry only — no return for sunrise |
+
+Foreign-resident drivers (i.e. your South African guide) often pay a reduced "SADC rate" — typically ~30 % less.
+
+## Food and water
+
+### Strategy
+
+1. **Bring from Italy**: 500 g cured meat or hard cheese per person (vacuum-packed), one packet of pre-grated parmesan (one is enough — it moulds after 10 days), olive oil in tins, salt, pepper, garlic, dehydrated risotto sachets for emergency dinners.
+2. **Big shop in South Africa** (day 2): pasta, rice, canned tomato, canned tuna, canned vegetables (beans, peas, corn), bread, biscuits, jam, peanut butter, instant coffee, tea, sugar, cooking oil, breakfast cereals, long-life milk, **5 L water bottles** (×30 for a group of 14), boxed wine, beer.
+3. **Top-up shopping in Zimbabwe**: meat (cheaper than European prices, fresh), eggs, bread, potatoes, onions, fresh fruit. Avoid relying on Zimbabwean supermarkets for staples — selection is limited and prices high.
+
+### Supermarkets to know
+
+- **South Africa**: Pick n Pay or Spar at any large Engen / Sasol service plaza on the N1.
+- **Botswana**: Spar in Serowe, Nata, Letlhakane.
+- **Zimbabwe**: Spar and Pick n Pay in Bulawayo (the most reliable resupply point of the trip), TM Supermarket in Chiredzi.
+
+### Water
+
+- Plan **5 litres per person per day**: drinking, cooking, washing dishes, brushing teeth.
+- Buy in 5 L jerrycans where possible: cheaper and more durable than 1.5 L bottles.
+- **Refill points**: only in towns. Carry empty containers — they are reusable.
+- Carry a small bottle of **Micropur water purification tablets** as backup. Used rarely.
+
+## Connectivity and communication
+
+### What works, where
+
+| Area | Mobile data | Wifi |
+|---|---|---|
+| Johannesburg / Pretoria | Excellent | Lodges, restaurants |
+| Botswana cities | Patchy 3G | Lodges only |
+| Botswana off-road | None | None |
+| Zimbabwe cities (Bulawayo, Harare) | 3G–4G | Hotels |
+| Zimbabwe parks & rural | **None** | None |
+| Victoria Falls | Slow wifi | Hotels and bars |
+
+### SIM cards
+
+Local Zimbabwean SIMs (Econet, NetOne) cost ~$10 with passport registration but are barely usable outside cities. Don't bother unless you have a specific need.
+
+### Tell people at home
+
+You will be **offline for most of the trip**. Send your itinerary to a family member before you go. Set expectations: "I'll be out of contact between day 4 and day 12."
+
+For emergencies, the local operator and guide carry satellite communications.
+
+## Packing list
+
+### Clothing
+
+- 4–5 t-shirts (light colours; dark attracts insects)
+- 2 long trousers (zip-off cargo type ideal)
+- 1 pair shorts
+- 1 long-sleeve shirt (light colour, against sun and mosquitoes)
+- 1 fleece + 1 windproof jacket
+- 1 light puffer or warm jumper for cold nights (Matobo: below freezing)
+- 1 raincoat / k-way
+- Sun hat + warm beanie
+- Buff or scarf (against dust)
+- Hiking shoes (mid-cut, dust-proof if possible)
+- Sandals or shower flip-flops
+- 4–5 pairs cotton/wool socks
+- Underwear for 7–8 days (laundry possible at lodges)
+- Swimwear (Lake Kariba, Victoria Falls)
+
+### Sleeping & camping
+
+- Sleeping bag, comfort 0–5 °C
+- Inflatable pillow
+- **Headlamp** + spare batteries (essential — camps are pitched in the dark)
+- Earplugs (for snorers and night sounds)
+- Sleeping mat / liner (the operator's mattresses are basic)
+- Padlocks for tent zips (baboons unzip tents — confirmed)
+- Backpack rain cover (or use heavy garbage bags) **against dust**
+
+### Tools & equipment
+
+- Multi-tool / Swiss knife (in checked luggage only)
+- Small torch as backup
+- Power bank + USB car charger (cigarette-lighter to USB)
+- Universal travel adapter (Type M for South Africa, Type G/D in Zimbabwe)
+- Power strip (one shared wall socket per group is common)
+- Binoculars (8x42 or similar)
+- Small day pack
+- Water bottle (1 L, sturdy)
+- Sunglasses (polarised) + spare pair
+
+### Toiletries & medical
+
+- Sun cream (SPF 50+)
+- Lip balm with SPF
+- Insect repellent (DEET 30–50 %)
+- Personal medication
+- Antibiotics (broad-spectrum — get from your GP)
+- Anti-diarrhoea, antipyretic, antihistamine
+- Throat lozenges (cold air + dust = sore throat by day 3)
+- Eye drops
+- Plasters, antiseptic wipes
+- Wet wipes (essential — replace showers on bush nights)
+- Toilet paper (1 roll personal in your day pack)
+
+### Documents
+
+- Passport + 2 photocopies (one in main bag, one with you)
+- 2–3 passport-sized photos in case of replacement
+- International driving permit (Vienna model, valid 3 years) — required
+- Travel insurance certificate
+- Vaccination certificate (yellow fever if applicable)
+- Credit card with embossed numbers (some rentals require)
+- Cash: clean USD bills (post-2009, small denominations)
+
+### From the kitchen at home
+
+- 500 g vacuum-packed cured meat or hard cheese
+- 1 small packet grated parmesan
+- 1 olive oil tin (1 L)
+- Salt, pepper, garlic, chilli flakes
+- 2 emergency risotto sachets (Knorr or similar)
+- A roll of kitchen paper
+
+### As a group
+
+- 2 large garbage bags + 2 small per person (dust covers, waste, organisation)
+- 4 dish sponges + 2 abrasive sponges
+- Old dish towels (5–6, expendable)
+- Pot holders (4)
+- Wooden spoon, ladle, slotted spoon, sharp knife, small chopping board
+- Tin foil + cling film
+- Dish soap (1 bottle)
+- Lighter (3 — they get lost), firelighters
+- Permanent marker, masking tape (label food boxes)
+- Sewing kit
+- Work gloves (for tyre changes)
+- Spare tent pegs and guy lines
+- 4 jerrycans of 20 L (filled with diesel in Botswana)
+- 2 jerrycans of 5–10 L (water reserve)
+
+## Things that go wrong (and what to do)
+
+**Vehicle breakdown.** Carry a basic toolkit, spare tubes, jump leads, tow rope. The local guide handles most field repairs. Confirm the rental's roadside assistance covers Zimbabwe (many don't).
+
+**Tyre punctures.** Expect 2–4 over the trip across the convoy. Repair at the next town (Bulawayo, Chiredzi, or Polokwane have decent tyre shops). Carry a 12 V air compressor.
+
+**Border delays.** Build a **2-hour buffer** into any day that includes a border crossing. Beitbridge specifically: arrive before 14:00 to be sure of clearing before nightfall.
+
+**Park camps full.** Confirmed bookings are now essential. Have a fallback: bushcamp outside the park if turned away.
+
+**Police "fines".** Smile, comply, negotiate quietly. $5–10 USD usually settles speed traps. Never hand over your original passport — copy is fine.
+
+**Rental car company adding charges after return.** Common scam. Photograph the vehicle inside and out at pickup AND drop-off. Get a written "no damage" report from the agent. Dispute fraudulent post-return charges immediately via the rental's main customer service, copying your booking agency.
+
+**Running out of cash.** ATMs are unreliable in Zimbabwe. Carry **at least 30 % more USD cash** than your projected need.
+
+**Someone needs to fly home.** The closest international airport from most of the route is **Bulawayo** (BUQ), with daily flights to Johannesburg. Beitbridge to Joburg is a 6-hour drive.
+
+---
+
+This guide is built from the field reports of multiple expeditions across this route. Distances, costs and procedures change — but the spirit of the trip does not. Plan well, pack light, drive slow, and let the country open to you.
+
+If you spot something out of date, write back. The journal is alive.
+
+![Granite domes and balanced rocks](granite.jpg) ![River country in the Gonarezhou](river.jpg)
+
+![Elephants at dawn](elephants.jpg) ![Salt pan stretching to the horizon](saltpan.jpg)
+
+![Victoria Falls](falls.jpg) ![A campfire at the edge of the bush](campfire.jpg)
