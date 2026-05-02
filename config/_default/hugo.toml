@@ -1,6 +1,6 @@
 baseURL                = "https://decandia.eu/"
 languageCode           = "en-us"
-title                  = "Decandia"
+title                  = "The Wandering Travels of Decandia"
 defaultContentLanguage = "en"
 hasCJKLanguage         = false
 theme                  = "hugo-theme-stack"
